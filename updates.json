@@ -1,0 +1,11 @@
+{
+  "addons": {
+    "otpgenerator@mati365.com": {
+      "updates": [
+        { "version": "0.1.0"
+        , "update_link": "https://github.com/Mati365/otp-generator/releases/download/v.0.1.0/otp-generator.xpi"
+        }
+      ]
+    }
+  }
+}

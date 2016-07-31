@@ -1,0 +1,9 @@
+*~
+.*
+!.gitignore
+!.gitkeep
+!.eslintrc.json
+node_modules/
+build/
+dist/
+*.log

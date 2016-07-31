@@ -1,0 +1,12 @@
+/**
+ * User mutations types
+ */
+export default {
+    SECRET_KEYS_LOADED: 'SECRET_KEYS_LADED'
+  , SECRET_KEYS_UPDATED: 'SECRET_KEYS_UPDATED'
+
+  , KEY_GENERATED: 'KEY_GENERATED'
+
+  , ADD_ENTRY: 'ADD_ENTRY'
+  , REMOVE_ENTRY: 'REMOVE_ENTRY'
+};
