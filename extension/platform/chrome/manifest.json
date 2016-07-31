@@ -16,7 +16,7 @@
       "views/*.html"
     ]
   , "permissions": ["storage"]
-  // , "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+  , "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
   // , "update_url": "https://raw.githubusercontent.com/Mati365/otp-generator/master/updates.xml"
   // , "applications": {
   //     "gecko": {
