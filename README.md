@@ -1,7 +1,6 @@
 # otp-generator
 Single extension that generates one time passwords
-<br>
-<img src="docs/generator.png" align="left" />
+<img src="docs/generator.png" align="right" />
 
 ## Install
 
