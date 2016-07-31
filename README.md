@@ -5,7 +5,7 @@ Single extension that generates one time passwords
 ## Install
 
 **Chrome:**
-* Download latest [stable version](https://github.com/Mati365/otp-generator/releases/latest) with **zip** extension
+* Download latest [stable version](https://github.com/Mati365/chrome-otp/releases/latest) with **zip** extension
 * Extract folder to desktop
 * Enable programmer mode in [chrome://extensions](chrome://extensions)
 * Drag and drop folder [chrome://extensions](chrome://extensions)
@@ -13,7 +13,7 @@ Single extension that generates one time passwords
 
 **Firefox:**
 * Go to about:config and set xpinstall.signatures.required to false
-* Install clicking link to [stable version](https://github.com/Mati365/otp-generator/releases/latest) with **xpi** extension
+* Install clicking link to [stable version](https://github.com/Mati365/chrome-otp/releases/latest) with **xpi** extension
 
 **Safari:**
 work in progress
